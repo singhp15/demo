@@ -1,2 +1,2 @@
 # demo
-it a demo project
+It is a demo project
